@@ -1,0 +1,7 @@
+stepDefinitions\petStoreStepDefinitions.class
+pageClass\PetStorePage.class
+pojoClass\Category.class
+pojoClass\Tags.class
+AutomationAssignment\automationAssignmentPetStore\AppTest.class
+pojoClass\AddPetReq.class
+cucumber\Options\TestRunner.class
